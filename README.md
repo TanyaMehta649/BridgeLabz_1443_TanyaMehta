@@ -1,3 +1,3 @@
 # BridgeLabz_1443_TanyaMehta
-Date = 08-12-2024 (Monday)
-I have done my assignment in which i have solved ques related to functions , if else , switch case , while loops.
+Date = 13-12-2024 (Friday)
+I have started working on Data Structures where I have worked on Arrays and Stacks.
